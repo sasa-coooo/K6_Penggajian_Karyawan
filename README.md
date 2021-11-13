@@ -31,4 +31,4 @@ TUGAS QUERY  :
 
 5200411045 - Bayu Octabryan Nugraha (DDL)
 
-5200411275 - AbdulHarisAs'ari (
+5200411275 - AbdulHarisAs'ari (DCL)
