@@ -33,7 +33,7 @@ TUGAS QUERY  :
 
 5200411275 - AbdulHarisAs'ari       (DCL)
 
-5200411365 - GalyleoIlhamSetyaka    (DML)
+
 
 #
 
