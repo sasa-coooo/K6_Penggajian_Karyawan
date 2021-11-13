@@ -3,11 +3,11 @@ ANGGOTA KELOMPOK :
 
 5200411045 – Bayu Octabryan Nugraha
 
-5200411365 - GalyleoIlhamSetyaka
+5200411365 - Galyleo Ilham Setyaka
 
-5200411275 - AbdulHarisAs'ari
+5200411275 - Abdul HarisAs'ari
 
-5200411502 - AnggeranoragaS.M
+5200411502 - Angger anoraga S. M.
 
 #
 
