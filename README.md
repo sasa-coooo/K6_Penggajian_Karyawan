@@ -9,11 +9,12 @@ ANGGOTA KELOMPOK :
 
 5200411502 - AnggeranoragaS.M
 
+############################
 
 TUGAS SRS :
 5200411045 - Bayu Octabryan Nugraha (SRS)
 
-
+############################
 
 TUGAS SDD :
 5200411365 - GalyleoIlhamSetyaka (Pendahuluan)
@@ -22,6 +23,7 @@ TUGAS SDD :
 
 5200411045 - Bayu Octabryan Nugraha (Sofware Design)
 
+#############################
 
 TUGAS QUERY  :
 5200411045 - Bayu Octabryan Nugraha (DDL)
