@@ -12,11 +12,13 @@ ANGGOTA KELOMPOK :
 ############################
 
 TUGAS SRS :
+
 5200411045 - Bayu Octabryan Nugraha (SRS)
 
 ############################
 
 TUGAS SDD :
+
 5200411365 - GalyleoIlhamSetyaka (Pendahuluan)
 
 5200411275 - AbdulHarisAs'ari (Dekprisi Umum)
@@ -26,6 +28,7 @@ TUGAS SDD :
 #############################
 
 TUGAS QUERY  :
+
 5200411045 - Bayu Octabryan Nugraha (DDL)
 
 5200411275 - AbdulHarisAs'ari (
