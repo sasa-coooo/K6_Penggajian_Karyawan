@@ -29,11 +29,13 @@ TUGAS SDD   :
 
 TUGAS QUERY  :
 
-5200411045 - Bayu Octabryan Nugraha (DDL Dan TCL )
+5200411045 - Bayu Octabryan Nugraha (DDL)
 
 5200411275 - AbdulHarisAs'ari       (DCL)
 
+5200411502 - Angger anoraga S. M.   (DML)
 
+5200411365 - Galyleo Ilham Setyaka  (TCL)
 
 #
 
