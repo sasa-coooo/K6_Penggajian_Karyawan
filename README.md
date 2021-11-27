@@ -11,13 +11,13 @@ ANGGOTA KELOMPOK :
 
 #
 
-TUGAS SRS   :
+1. TUGAS SRS   :
 
 5200411045 - Bayu Octabryan Nugraha  (SRS)
 
 #
 
-TUGAS SDD   :
+2. TUGAS SDD   :
 
 5200411365 - GalyleoIlhamSetyaka    (Pendahuluan)
 
@@ -27,7 +27,7 @@ TUGAS SDD   :
 
 #
 
-TUGAS QUERY  :
+3. TUGAS QUERY  :
 
 5200411045 - Bayu Octabryan Nugraha (DDL)
 
@@ -41,4 +41,5 @@ TUGAS QUERY  :
 
 TUGAS FIGMA :
 
+5200411045 - Bayu Octabryan Nugraha (FIGMA)
 
