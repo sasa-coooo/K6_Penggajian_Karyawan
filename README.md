@@ -39,7 +39,8 @@ ANGGOTA KELOMPOK :
 
 #
 
-TUGAS FIGMA :
+4. TUGAS FIGMA :
 
 5200411045 - Bayu Octabryan Nugraha (FIGMA)
 
+5. TUGAS RAD  :
