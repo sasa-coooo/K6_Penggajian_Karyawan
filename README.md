@@ -41,8 +41,4 @@ TUGAS QUERY  :
 
 TUGAS FIGMA :
 
-5200411045 - Bayu Octabryan Nugraha (Input User, Output User & Arsiktektur Sistem) 
-& 
-( Desain Figma Web & App : Login, Dashboard, Data Pegawai, Data Jabatan, Data Gaji)
 
-5200411275 - AbdulHarisAs'ari (Desain Figma Web : Laporan Gaji, Slip Gaji, Ubah Password)
